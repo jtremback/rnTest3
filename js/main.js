@@ -15,10 +15,10 @@ var {
 
 // import { forp } from './js/module.js'
 
-async function foo () {
-  let foo = await fetch('google.com')
-  return foo
-}
+// async function foo () {
+//   let foo = await fetch('google.com')
+//   return foo
+// }
 
 module.exports = React.createClass({
   render: function() {
